@@ -1,3 +1,9 @@
-### Personal entries
+### Jekyll ignore
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+### My ignore
 .vscode/
-#assets/js/config.js
