@@ -8,7 +8,7 @@ layout: page
 feature-img: "/assets/images/header_large_2480.jpg" 
 #permalink: /my_permalink/           # Set a permalink your your page
 hide: true                           # Prevent the page title to appear in the navbar
-#icon: "fa-search"                    # Will Display only the fontawesome icon (here: fa-search) and not the title
+#icon: "fa-search"                   # Will Display only the fontawesome icon (here: fa-search) and not the title
 tags: [digital-twins, european project, IoT]
 ---
 
