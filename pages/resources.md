@@ -5,6 +5,7 @@ permalink: /resources/
 feature-img: "/assets/images/code_2480.jpg" 
 position: 4
 ---
+
 <style type="text/css">   
     .image-credit {
         font-size: 14px;

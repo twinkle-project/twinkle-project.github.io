@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /articles/
 feature-img: "/assets/images/publications_2480.jpg" 
 position: 3
 ---
+
 <style type="text/css">   
     .image-credit {
         font-size: 14px;
