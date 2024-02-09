@@ -33,7 +33,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: type-on-strap
+# theme: type-on-strap
+# For Github Pages is necessary to point a remote theme if different from the GH supported themes
+remote_theme: type-on-strap
 #plugins:
 #  - jekyll-feed
 
