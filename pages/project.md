@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project
-permalink: /about/
+permalink: /project/
 feature-img: "/assets/images/project_2480.jpg" 
 position: 1
 ---

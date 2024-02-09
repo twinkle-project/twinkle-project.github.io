@@ -55,11 +55,11 @@ collections:
 
 
 # BLOG CONFIGURATION
-post_navigation: true
-paginate: 10
-excerpt: true
-paginate_path: "blog/page:num"
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+# post_navigation: false
+# paginate: 10
+# excerpt: true
+# paginate_path: "blog/page:num"
+# plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
