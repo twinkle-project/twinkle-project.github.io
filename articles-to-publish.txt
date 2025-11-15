@@ -1,0 +1,12 @@
+1. Digital twin continuum: a key enabler for pervasive cyber-physical environments
+    - Authors: Antonello Barbone, Samuele Burattini, Matteo Martinelli, Marco Picone, Alessandro Ricci, Antonio Virdis
+    - Date: 2024/7/29
+    - Type: conference article
+    - Conference: 2024 33rd International Conference on Computer Communications and Networks (ICCCN)
+    - DOI: 10.1109/ICCCN61486.2024.10637565
+    - Introductory: 
+        We are pleased to announce the publication of our new article, "Digital Twin Continuum: a Key Enabler for Pervasive Cyber-Physical Environments," the result of joint research between the Universities of Modena and Reggio Emilia, Pisa, and Bologna.
+        This work stems from the growing diffusion of Digital Twin (DT) technologies, which have become essential for simulating, monitoring, and optimizing complex systems thanks to their ability to digitize physical assets and offer intelligent and predictive services. However, the rapid proliferation of DT platforms and approaches has led to significant fragmentation, limiting interoperability and manageability, especially in edge-to-cloud deployments.
+        Based on these considerations, the article introduces the concept of the Digital Twin Continuum (DTC): a unified framework that overcomes platform differences, offering a coordinated and interoperable layer for managing, orchestrating, and monitoring DTs distributed across heterogeneous infrastructures. The DTC abstracts deployment complexity and allows for focus on key functionality, facilitating collaboration between developers, infrastructure managers, and application designers.
+        After defining the principles, architectural components, and core functionalities of the DTC model, the research presents an experimental evaluation conducted on a real-world case study in Smart Mobility, leveraging distributed DTs across different platforms (Docker, Kubernetes) in the Modena Automotive Smart Area. The results demonstrate the feasibility and effectiveness of the DTC, highlighting the possibility of managing complex solutions in edge-cloud scenarios, improving interoperability, scalability, and computational resource efficiency.
+        This study outlines a new paradigm for the evolution of Digital Twins, focusing on abstraction, orchestration, and openness to increasingly integrated and collaborative ecosystems.
