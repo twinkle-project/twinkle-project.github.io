@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Twinkle Project!"
 date:   2024-01-13 16:01:07 +0100   # TODO: DATA?
-feature-img: "/assets/images/publications_2480.jpg" 
+feature-img: "/publications/images/publications_2480.jpg" 
 categories: project update
 excerpt_separator: <!--more-->
 ---
@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
     }
 </style>
 
-This page includes a comprehensive list of our scientific publications presented at international journals and conferences, showcasing our latest research findings and contributions to the academic community.  
+This page includes a comprehensive list of our scientific publications presented at international journals and conferences, showcasing our latest research findings and contributions to the academic community.
 
 <!--more-->
 
