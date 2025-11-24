@@ -21,13 +21,13 @@ excerpt_separator: <!--more-->
 - Journal: SoftwareX
 - DOI: [10.1016/j.softx.2025.102275](https://doi.org/10.1016/j.softx.2025.102275)
 
-We are pleased to announce the publication of our latest work presenting the HWoDT Framework—a software toolchain designed to support the development of interoperable Digital Twin ecosystems.
+We are pleased to announce the publication of our latest work presenting the HWoDT Framework—a software toolchain designed to support the development of interoperable Digital Twin (DT) ecosystems.
 
-The research starts from the growing need to model complex, large-scale systems with interconnected Digital Twins, overcoming the limitations of single, isolated twin solutions. Our approach is based on Web standards and principles, enabling heterogeneous Digital Twins—developed with different technologies or by different stakeholders—to communicate via a uniform, RESTful interface and standardized semantic descriptions.
+The research starts from the growing need to model complex, large-scale systems with interconnected DTs, overcoming the limitations of single, isolated twin solutions. Our approach is based on Web standards and principles, enabling heterogeneous DTs—developed with different technologies or by different stakeholders—to communicate via a uniform, RESTful interface and standardized semantic descriptions.
 
-The HWoDT Framework includes adapters and a platform that simplify the integration and management of diverse Digital Twins, making it easier to build scalable and modular ecosystems. Our findings, validated with practical scenarios and performance tests, demonstrate that this framework enables seamless data sharing, querying, and interoperability across domains, while maintaining low overhead for typical use cases.
+The HWoDT Framework includes adapters and a platform that simplify the integration and management of diverse DTs, making it easier to build scalable and modular ecosystems. Our findings, validated with practical scenarios and performance tests, demonstrate that this framework enables seamless data sharing, querying, and interoperability across domains, while maintaining low overhead for typical use cases.
 
-This work marks an important step toward open and reusable Digital Twin solutions, facilitating collaboration and innovation across organizations and application domains.
+This work marks an important step toward open and reusable DT solutions, facilitating collaboration and innovation across organizations and application domains.
 
 For more information, check out the article the article in [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=HWoDT+Framework%3A+A+toolchain+to+build+interoperable+Digital+Twin+Ecosystems&btnG=).
 
