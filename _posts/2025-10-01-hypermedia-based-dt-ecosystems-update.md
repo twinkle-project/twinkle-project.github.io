@@ -21,13 +21,11 @@ excerpt_separator: <!--more-->
 - Journal: Future Generation Computer Systems
 - DOI: [10.1016/j.future.2025.108219](https://doi.org/10.1016/j.future.2025.108219)
 
-We are pleased to announce the publication of our latest work presenting the HWoDT Framework—a software toolchain designed to support the development of interoperable Digital Twin ecosystems.
+We are pleased to announce the publication of our latest research on advancing interoperability in Digital Twin (DT) ecosystems through a hypermedia-based, Web-oriented approach. Starting from the increasing need to connect diverse DTs—often built with different technologies and by various stakeholders—the study identifies key challenges in integrating heterogeneous systems.​
 
-The research starts from the growing need to model complex, large-scale systems with interconnected Digital Twins, overcoming the limitations of single, isolated twin solutions. Our approach is based on Web standards and principles, enabling heterogeneous Digital Twins—developed with different technologies or by different stakeholders—to communicate via a uniform, RESTful interface and standardized semantic descriptions.
+Our work proposes an architecture, the Hypermedia-based Web of Digital Twins (HWoDT), which leverages Web standards and semantic descriptions to provide a uniform interface and enable seamless navigation, data sharing, and querying across DTs. This solution is validated with a case study in healthcare, demonstrating how diverse DTs can be integrated to support coordinated monitoring and management.
 
-The HWoDT Framework includes adapters and a platform that simplify the integration and management of diverse Digital Twins, making it easier to build scalable and modular ecosystems. Our findings, validated with practical scenarios and performance tests, demonstrate that this framework enables seamless data sharing, querying, and interoperability across domains, while maintaining low overhead for typical use cases.
-
-This work marks an important step toward open and reusable Digital Twin solutions, facilitating collaboration and innovation across organizations and application domains.
+The main findings show that hypermedia and semantic web principles can overcome technological fragmentation, enabling scalable, cross-domain ecosystems where applications and organizations can collaborate more efficiently. This framework marks an important step toward open, adaptive, and future-proof DT solutions.
 
 For more information, check out the article the article in [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hypermedia-Based+Digital+Twin+Ecosystems%3A+A+Proposal+for+Digital+Twin+Interoperability&btnG=).
 
