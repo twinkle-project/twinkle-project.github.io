@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Publication Update"
-permalink: /publications/pub_1/
+permalink: /publications/pub-1/
 date:   2024-08-23 12:00:00 +0100                       # TODO: DATA?
 feature-img: "/assets/images/publications_2480.jpg"     # TODO: change image to improve title readability
 categories: project update                              # TODO: highlight kewords in the text
