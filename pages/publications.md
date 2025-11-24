@@ -19,7 +19,7 @@ position: 3
 This page includes a comprehensive list of our scientific publications presented at international journals and conferences, showcasing our latest research findings and contributions to the academic community.  
 
 Publications: 
-- [Digital Twin Continuum: a key enabler for Cyber-Physical Environments](/publications/pub_1)
+- [Digital Twin Continuum: a key enabler for Cyber-Physical Environments](/publications/pub-1)
     - Authors: A. Barbone, S. Burattini, M. Martinelli, M. Picone, A. Ricci, A. Virdis
     - Published on: Aug 2024
     - Publisher: IEEE
